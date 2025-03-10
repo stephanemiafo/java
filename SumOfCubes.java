@@ -36,5 +36,7 @@ public class SumOfCubes {
         System.out.println("The sum of cubes is: " + intSumOfCubes);
 
         scnMyKbd.close();
+    
     }
+
 }
